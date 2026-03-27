@@ -2,7 +2,7 @@
 #include <iostream>
 #include "Lab5Exmaple.h"
 using namespace std;
-
+// tttt
 namespace Exp4 {
 	class Base {
 		int pv;
